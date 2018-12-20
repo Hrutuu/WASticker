@@ -294,6 +294,34 @@
           "emojis": ["😆","😂"]
         }
       ]
+    },
+    {
+      "identifier": "3",
+      "name": "Emoji",
+      "publisher": "Jane Doe",
+      "tray_image_file": "tray_Cuppy.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "kemo_chho.webp",
+          "emojis": ["☕", "🙂"]
+        },
+        {
+          "image_file": "majama.webp",
+          "emojis": ["😄", "😀"]
+        },
+        {
+          "image_file": "su_kre_chhe.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "su_thyu.webp",
+          "emojis": ["😆", "😂"]
+        }
+      ]
     }
 
   ]
