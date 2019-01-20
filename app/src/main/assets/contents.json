@@ -1,257 +1,1445 @@
 {
-  "android_play_store_link": "",
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.example.stickerapp",
   "ios_app_store_link": "",
   "sticker_packs": [
+
     {
-      "identifier": "11",
-      "name": "Cuppy",
-      "publisher": "Jane Doe",
-      "tray_image_file": "tray_Cuppy.png",
-      "publisher_email":"",
+      "identifier": "19_republic_day",
+      "name": "Republic Day",
+      "publisher": "Findery",
+      "tray_image_file": "tray_republic.png",
+      "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "01_Cuppy_smile.webp",
-          "emojis": ["☕","🙂"]
+          "image_file": "01.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
         },
         {
-          "image_file": "02_Cuppy_lol.webp",
-          "emojis": ["😄","😀"]
+          "image_file": "02.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
         },
         {
-          "image_file": "03_Cuppy_rofl.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "03.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
         },
         {
-          "image_file": "04_Cuppy_sad.webp",
-          "emojis": ["😩","😰"]
+          "image_file": "04.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
         },
         {
-          "image_file": "05_Cuppy_cry.webp",
-          "emojis": ["😭","💧"]
+          "image_file": "05.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
         },
         {
-          "image_file": "06_Cuppy_love.webp",
-          "emojis": ["😍","♥"]
+          "image_file": "06.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
         },
         {
-          "image_file": "07_Cuppy_hate.webp",
-          "emojis": ["💔","👎"]
+          "image_file": "07.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
         },
         {
-          "image_file": "08_Cuppy_lovewithmug.webp",
-          "emojis": ["😍","💑"]
+          "image_file": "08.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
         },
         {
-          "image_file": "09_Cuppy_lovewithcookie.webp",
-          "emojis": ["😘","🍪"]
+          "image_file": "09.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
         },
         {
-          "image_file": "10_Cuppy_hmm.webp",
-          "emojis": ["🤔","😐"]
+          "image_file": "10.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
         },
         {
-          "image_file": "11_Cuppy_upset.webp",
-          "emojis": ["😱","😵"]
+          "image_file": "11.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
         },
         {
-          "image_file": "12_Cuppy_angry.webp",
-          "emojis": ["😡","😠"]
+          "image_file": "12.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
         },
         {
-          "image_file": "13_Cuppy_curious.webp",
-          "emojis": ["❓","🤔"]
+          "image_file": "13.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
         },
         {
-          "image_file": "14_Cuppy_weird.webp",
-          "emojis": ["🌈","😜"]
+          "image_file": "14.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
         },
         {
-          "image_file": "15_Cuppy_bluescreen.webp",
-          "emojis": ["💻","😩"]
+          "image_file": "15.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
         },
         {
-          "image_file": "16_Cuppy_angry.webp",
-          "emojis": ["😡","😤"]
+          "image_file": "16.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
         },
         {
-          "image_file": "17_Cuppy_tired.webp",
-          "emojis": ["😩","😨"]
+          "image_file": "17.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
         },
         {
-          "image_file": "18_Cuppy_workhard.webp",
-          "emojis": ["💻","🌃"]
+          "image_file": "18.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
         },
         {
-          "image_file": "19_Cuppy_shine.webp",
-          "emojis": ["🎉","✨"]
+          "image_file": "19.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
         },
         {
-          "image_file": "20_Cuppy_disgusting.webp",
-          "emojis": ["🤮","👎"]
+          "image_file": "20.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
         },
         {
-          "image_file": "21_Cuppy_hi.webp",
-          "emojis": ["🖐","🙋"]
-        },
-        {
-          "image_file": "22_Cuppy_bye.webp",
-          "emojis": ["🖐","👋"]
-        },
-        {
-          "image_file": "23_Cuppy_greentea.webp",
-          "emojis": ["🍵","😌"]
-        },
-        {
-          "image_file": "24_Cuppy_phone.webp",
-          "emojis": ["📱","😦"]
-        },
-        {
-          "image_file": "25_Cuppy_battery.webp",
-          "emojis": ["🔋","😵"]
+          "image_file": "21.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
         }
       ]
     },
     {
       "identifier": "1",
       "name": "Emoji",
-      "publisher": "Jane Doe",
-      "tray_image_file": "tray_Cuppy.png",
+      "publisher": "Findery",
+      "tray_image_file": "tray_emoji_1.png",
+      "publisher_email":"chhetahrutu@gmail.com",
+      "publisher_website": "http://www.google.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_smiling.webp",
+          "emojis": ["😊","🙂"]
+        },
+        {
+          "image_file": "02_tongue.webp",
+          "emojis": ["😝","😝"]
+        },
+        {
+          "image_file": "03_smiling.webp",
+          "emojis": ["😊","😂"]
+        },
+        {
+          "image_file": "04_sad.webp",
+          "emojis": ["😩","😩"]
+        },
+        {
+          "image_file": "05_smiling.webp",
+          "emojis": ["😊","😊"]
+        },
+        {
+          "image_file": "06_smiling.webp",
+          "emojis": ["😊","♥"]
+        },
+        {
+          "image_file": "07_sweat.webp",
+          "emojis": ["😓","😓"]
+        },
+        {
+          "image_file": "08_cry.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "09_wink.webp",
+          "emojis": ["😉","😉"]
+        },
+        {
+          "image_file": "10_smiling.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11_expressionless.webp",
+          "emojis": ["😓","😓"]
+        },
+        {
+          "image_file": "12_tongue.webp",
+          "emojis": ["😝","😝"]
+        },
+        {
+          "image_file": "13_smiling.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14_smirking.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "15_in_love.webp",
+          "emojis": ["♥","♥"]
+        },
+        {
+          "image_file": "16_smiling.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17_surprised.webp",
+          "emojis": ["😲","😲"]
+        },
+        {
+          "image_file": "18_cry.webp",
+          "emojis": ["💔","😭"]
+        },
+        {
+          "image_file": "19_cry.webp",
+          "emojis": ["💔","😭"]
+        },
+        {
+          "image_file": "20_tongue.webp",
+          "emojis": ["🤮","😝"]
+        },
+        {
+          "image_file": "21_sad.webp",
+          "emojis": ["💔","😭"]
+        },
+        {
+          "image_file": "22_kiss.webp",
+          "emojis": ["♥","♥"]
+        },
+        {
+          "image_file": "23_surprised.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24_speechless.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "25_cry.webp",
+          "emojis": ["😭","😭"]
+        },
+        {
+          "image_file": "26_in_love.webp",
+          "emojis": ["♥","♥"]
+        },
+        {
+          "image_file": "27_smiling.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28_smiling.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29_smirking.webp",
+          "emojis": ["😏","😵"]
+        },
+        {
+          "image_file": "30_smirking.webp",
+          "emojis": ["😏","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "27_square_emoji",
+      "name": "Square Emoji",
+      "publisher": "Findery",
+      "tray_image_file": "tray_square_emoji.png",
       "publisher_email":"",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "01_angel.webp",
-          "emojis": ["☕","🙂"]
+          "image_file": "01.webp",
+          "emojis": ["😊","🙂"]
         },
         {
-          "image_file": "02_angry.webp",
-          "emojis": ["😄","😀"]
+          "image_file": "02.webp",
+          "emojis": ["😝","😝"]
         },
         {
-          "image_file": "03_astonished_1.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "03.webp",
+          "emojis": ["😊","😂"]
         },
         {
-          "image_file": "04_confused.webp",
-          "emojis": ["😩","😰"]
+          "image_file": "04.webp",
+          "emojis": ["😩","😩"]
         },
         {
-          "image_file": "05_cool.webp",
-          "emojis": ["😭","💧"]
+          "image_file": "05.webp",
+          "emojis": ["😊","😊"]
         },
         {
-          "image_file": "06_cry.webp",
-          "emojis": ["😍","♥"]
+          "image_file": "06.webp",
+          "emojis": ["😊","♥"]
         },
         {
-          "image_file": "07_cry_1.webp",
-          "emojis": ["💔","👎"]
+          "image_file": "07.webp",
+          "emojis": ["😓","😓"]
         },
         {
-          "image_file": "08_dizzy.webp",
-          "emojis": ["😍","💑"]
-        },
-        {
-          "image_file": "09_happy.webp",
-          "emojis": ["😘","🍪"]
-        },
-        {
-          "image_file": "10_happy_2.webp",
-          "emojis": ["🤔","😐"]
-        },
-        {
-          "image_file": "11_in_love.webp",
-          "emojis": ["😱","😵"]
-        },
-        {
-          "image_file": "12_injury.webp",
-          "emojis": ["😡","😠"]
-        },
-        {
-          "image_file": "13_joy.webp",
-          "emojis": ["❓","🤔"]
-        },
-        {
-          "image_file": "14_kiss.webp",
-          "emojis": ["🌈","😜"]
-        },
-        {
-          "image_file": "15_kiss_2.webp",
-          "emojis": ["💻","😩"]
-        },
-        {
-          "image_file": "16_mask.webp",
-          "emojis": ["😡","😤"]
-        },
-        {
-          "image_file": "17_neutral.webp",
+          "image_file": "08.webp",
           "emojis": ["😩","😨"]
         },
         {
-          "image_file": "18_sad_1.webp",
-          "emojis": ["💻","🌃"]
+          "image_file": "09.webp",
+          "emojis": ["😉","😉"]
         },
         {
-          "image_file": "19_scared.webp",
-          "emojis": ["🎉","✨"]
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
         },
         {
-          "image_file": "20_secret.webp",
-          "emojis": ["🤮","👎"]
+          "image_file": "11.webp",
+          "emojis": ["😓","😓"]
         },
         {
-          "image_file": "21_sick.webp",
-          "emojis": ["🖐","🙋"]
+          "image_file": "12.webp",
+          "emojis": ["😝","😝"]
         },
         {
-          "image_file": "22_sleeping.webp",
-          "emojis": ["🖐","👋"]
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
         },
         {
-          "image_file": "23_smiling.webp",
+          "image_file": "14.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["♥","♥"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😲","😲"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💔","😭"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["💔","😭"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","😝"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["💔","😭"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["♥","♥"]
+        },
+        {
+          "image_file": "23.webp",
           "emojis": ["🍵","😌"]
         },
         {
-          "image_file": "24_smiling_1.webp",
-          "emojis": ["📱","😦"]
-        },
-        {
-          "image_file": "25_smirking.webp",
+          "image_file": "24.webp",
           "emojis": ["🔋","😵"]
         },
         {
-          "image_file": "26-thinking.webp",
+          "image_file": "25.webp",
+          "emojis": ["😭","😭"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["♥","♥"]
+        },
+        {
+          "image_file": "27.webp",
           "emojis": ["🔋","😵"]
         },
         {
-          "image_file": "27_tongue.webp",
+          "image_file": "28.webp",
           "emojis": ["🔋","😵"]
         },
         {
-          "image_file": "28_tongue-1.webp",
-          "emojis": ["🔋","😵"]
+          "image_file": "29.webp",
+          "emojis": ["😏","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "34_skulls",
+      "name": "Skull",
+      "publisher": "HC",
+      "tray_image_file": "tray_skulls.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_skulls.webp",
+          "emojis": ["😊","🙂"]
         },
         {
-          "image_file": "29_vomiting.webp",
-          "emojis": ["🔋","😵"]
+          "image_file": "02_skulls.webp",
+          "emojis": ["😝","😝"]
         },
         {
-          "image_file": "30_wink.webp",
+          "image_file": "03_skulls.webp",
+          "emojis": ["😊","😂"]
+        },
+        {
+          "image_file": "04_skulls.webp",
+          "emojis": ["😩","😩"]
+        },
+        {
+          "image_file": "05_skulls.webp",
+          "emojis": ["😊","😊"]
+        },
+        {
+          "image_file": "06_skulls.webp",
+          "emojis": ["😊","♥"]
+        },
+        {
+          "image_file": "07_skulls.webp",
+          "emojis": ["😓","😓"]
+        },
+        {
+          "image_file": "08_skulls.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "09_skulls.webp",
+          "emojis": ["😉","😉"]
+        },
+        {
+          "image_file": "10_skulls.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11_skulls.webp",
+          "emojis": ["😓","😓"]
+        },
+        {
+          "image_file": "12_skulls.webp",
+          "emojis": ["😝","😝"]
+        },
+        {
+          "image_file": "13_skulls.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14_skulls.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "15_skulls.webp",
+          "emojis": ["♥","♥"]
+        },
+        {
+          "image_file": "16_skulls.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17_skulls.webp",
+          "emojis": ["😲","😲"]
+        },
+        {
+          "image_file": "18_skulls.webp",
+          "emojis": ["💔","😭"]
+        },
+        {
+          "image_file": "19_skulls.webp",
+          "emojis": ["💔","😭"]
+        },
+        {
+          "image_file": "20_skulls.webp",
+          "emojis": ["🤮","😝"]
+        },
+        {
+          "image_file": "21_skulls.webp",
+          "emojis": ["💔","😭"]
+        },
+        {
+          "image_file": "22_skulls.webp",
+          "emojis": ["♥","♥"]
+        },
+        {
+          "image_file": "23_skulls.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24_skulls.webp",
           "emojis": ["🔋","😵"]
         }
       ]
     },
-
+    {
+      "identifier": "29_panda_emoji",
+      "name": "Panda Emoji",
+      "publisher": "Findery",
+      "tray_image_file": "tray_panda.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_panda.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "02_panda.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "03_panda.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "04_panda.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "05_panda.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "06_panda.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "07_panda.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "08_panda.webp",
+          "emojis": ["😪", "⭐"]
+        },
+        {
+          "image_file": "09_panda.webp",
+          "emojis": ["😪", "😘"]
+        },
+        {
+          "image_file": "10_panda.webp",
+          "emojis": ["😪", "😘"]
+        },
+        {
+          "image_file": "11_panda.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "12_panda.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "13_panda.webp",
+          "emojis": ["😪", "⭐"]
+        },
+        {
+          "image_file": "14_panda.webp",
+          "emojis": ["😪", "😘"]
+        },
+        {
+          "image_file": "15_panda.webp",
+          "emojis": ["😪", "😘"]
+        },
+        {
+          "image_file": "16_panda.webp",
+          "emojis": ["😪", "😘"]
+        }
+      ]
+    },
+    {
+      "identifier": "30_rabbit",
+      "name": "Rabbit Emoji",
+      "publisher": "Findery",
+      "tray_image_file": "tray_rabbit.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1_rabbit.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "01_rabbit.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "2_rabbit.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "02_rabbit.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "3_rabbit.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "03_rabbit.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "4_rabbit.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "04_rabbit.webp",
+          "emojis": ["😪", "⭐"]
+        },
+        {
+          "image_file": "5_rabbit.webp",
+          "emojis": ["😪", "😘"]
+        },
+        {
+          "image_file": "05_rabbit.webp",
+          "emojis": ["😪", "😘"]
+        },
+        {
+          "image_file": "6_rabbit.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "06_rabbit.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "07_rabbit.webp",
+          "emojis": ["😪", "⭐"]
+        },
+        {
+          "image_file": "08_rabbit.webp",
+          "emojis": ["😪", "😘"]
+        },
+        {
+          "image_file": "09_rabbit.webp",
+          "emojis": ["😪", "😘"]
+        }
+      ]
+    },
+    {
+      "identifier": "35_Big_Panda",
+      "name": "Big Panda",
+      "publisher": "Findery",
+      "tray_image_file": "tray_pannda.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_panda.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "02_pannda.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "03_pannda.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "04_pannda.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "05_pannda.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "06_pannda.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "07_pannda.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "08_pannda.webp",
+          "emojis": ["😪", "⭐"]
+        },
+        {
+          "image_file": "09_pannda.webp",
+          "emojis": ["😪", "😘"]
+        },
+        {
+          "image_file": "10_pannda.webp",
+          "emojis": ["😪", "😘"]
+        },
+        {
+          "image_file": "11_pannda.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "12_pannda.webp",
+          "emojis": ["😪", "😊"]
+        }
+      ]
+    },
+    {
+      "identifier": "31_monkey_emoji",
+      "name": "Monkey Emoji",
+      "publisher": "Findery",
+      "tray_image_file": "tray_monkey.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_monkey.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "02_monkey.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "03_monkey.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "04_monkey.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "05_monkey.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "06_monkey.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "07_monkey.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "08_monkey.webp",
+          "emojis": ["😪", "⭐"]
+        },
+        {
+          "image_file": "09_monkey.webp",
+          "emojis": ["😪", "😘"]
+        }
+      ]
+    },
+    {
+      "identifier": "47_emoction",
+      "name": "Emoction",
+      "publisher": "Findery",
+      "tray_image_file": "tray_emoction.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_e.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "02_e.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "03_e.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "04_e.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "05_e.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "06_e.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "07_e.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "08_e.webp",
+          "emojis": ["😪", "⭐"]
+        },
+        {
+          "image_file": "09_e.webp",
+          "emojis": ["😪", "😘"]
+        },
+        {
+          "image_file": "10_e.webp",
+          "emojis": ["😪", "😘"]
+        },
+        {
+          "image_file": "11_e.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "12_e.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "13_e.webp",
+          "emojis": ["😪", "⭐"]
+        },
+        {
+          "image_file": "14_e.webp",
+          "emojis": ["😪", "😘"]
+        },
+        {
+          "image_file": "15_e.webp",
+          "emojis": ["😪", "😘"]
+        }
+      ]
+    },
+    {
+      "identifier": "33_toast",
+      "name": "Toast",
+      "publisher": "Findery",
+      "tray_image_file": "tray_toast.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_toast.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "02_toast.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "03_toast.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "04_toast.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "05_toast.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "06_toast.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "07_toast.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "08_toast.webp",
+          "emojis": ["😪", "⭐"]
+        },
+        {
+          "image_file": "09_toast.webp",
+          "emojis": ["😪", "😘"]
+        },
+        {
+          "image_file": "10_toast.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "11_toast.webp",
+          "emojis": ["😪", "⭐"]
+        },
+        {
+          "image_file": "12_toast.webp",
+          "emojis": ["😪", "😘"]
+        }
+      ]
+    },
+    {
+      "identifier": "32_owls",
+      "name": "Owls",
+      "publisher": "Findery",
+      "tray_image_file": "tray_owl.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_owls.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "02_owls.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "03_owls.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "04_owls.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "05_owls.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "06_owls.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "07_owls.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "08_owls.webp",
+          "emojis": ["😪", "⭐"]
+        },
+        {
+          "image_file": "09_owls.webp",
+          "emojis": ["😪", "😘"]
+        },
+        {
+          "image_file": "10_owls.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "11_owls.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "12_owls.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "13_owls.webp",
+          "emojis": ["😪", "⭐"]
+        },
+        {
+          "image_file": "14_owls.webp",
+          "emojis": ["😪", "😘"]
+        }
+      ]
+    },
+    {
+      "identifier": "38_Holi",
+      "name": "Holi Festival",
+      "publisher": "Findery",
+      "tray_image_file": "tray_Holi.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_Holi.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
+        },
+        {
+          "image_file": "02_Holi.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
+        },
+        {
+          "image_file": "03_Holi.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
+        },
+        {
+          "image_file": "04_Holi.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
+        },
+        {
+          "image_file": "05_Holi.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
+        },
+        {
+          "image_file": "06_Holi.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
+        },
+        {
+          "image_file": "07_Holi.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
+        },
+        {
+          "image_file": "08_Holi.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
+        },
+        {
+          "image_file": "09_Holi.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
+        },
+        {
+          "image_file": "10_Holi.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
+        },
+        {
+          "image_file": "11_Holi.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
+        },
+        {
+          "image_file": "12_Holi.webp",
+          "emojis": ["🇮🇳", "🇮🇳"]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Happy New Year",
+      "publisher": "Findery",
+      "tray_image_file": "tray_newyear_4.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": ["🍫", "🎉"]
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": ["🍫", "🙂"]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["🍫", "🎉"]
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": ["🍫", "🙂"]
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": ["🍫", "🙂"]
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": ["🍫", "🎉"]
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": ["🍫", "🎉"]
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": ["🍫", "🎉"]
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": ["🍫", "🙂"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🍫", "🙂"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["🍫", "🙂"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["🍫", "🙂"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["🍫", "🙂"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🍫", "🙂"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["🍫", "🎉"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["🍫", "🎉"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["🍫", "🎉"]
+        }
+      ]
+    },
     {
       "identifier": "2",
-      "name": "Emoji",
-      "publisher": "Jane Doe",
-      "tray_image_file": "tray_Cuppy.png",
+      "name": "Good Morning",
+      "publisher": "Findery",
+      "tray_image_file": "tray_gm_2.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_gm.webp",
+          "emojis": ["⛅", "😊"]
+        },
+        {
+          "image_file": "02_gm.webp",
+          "emojis": ["⛅", "😊"]
+        },
+        {
+          "image_file": "03_gm.webp",
+          "emojis": ["⛅", "😊"]
+        },
+        {
+          "image_file": "04_gm.webp",
+          "emojis": ["⛅", "😊"]
+        },
+        {
+          "image_file": "05_gm.webp",
+          "emojis": ["⛅", "😊"]
+        },
+        {
+          "image_file": "06_gm.webp",
+          "emojis": ["⛅", "😊"]
+        },
+        {
+          "image_file": "07_gm.webp",
+          "emojis": ["⛅", "😊"]
+        },
+        {
+          "image_file": "08_gm.webp",
+          "emojis": ["⛅", "🌻"]
+        },
+        {
+          "image_file": "09_good_Evening.webp",
+          "emojis": ["😊", "😊"]
+        },
+        {
+          "image_file": "10_have_a_beatiful_day.webp",
+          "emojis": ["😊","🌻"]
+        },
+        {
+          "image_file": "11_greateday.webp",
+          "emojis": ["😊","😊"]
+        },
+        {
+          "image_file": "12_always_time_for_tea.webp",
+          "emojis": ["😊","😊"]
+        },
+        {
+          "image_file": "12_good_afternoon.webp",
+          "emojis": ["😊","😊"]
+        },
+        {
+          "image_file": "13_morninggood.webp",
+          "emojis": ["🌄","😊"]
+        },
+        {
+          "image_file": "14_gm.webp",
+          "emojis": ["⛅", "😊"]
+        },
+        {
+          "image_file": "15_gm.webp",
+          "emojis": ["⛅", "🌻"]
+        },
+        {
+          "image_file": "16_gm.webp",
+          "emojis": ["😊", "😊"]
+        },
+        {
+          "image_file": "17_gm.webp",
+          "emojis": ["😊","🌻"]
+        },
+        {
+          "image_file": "18_gm.webp",
+          "emojis": ["😊","😊"]
+        },
+        {
+          "image_file": "19_good_day.webp",
+          "emojis": ["😊","😊"]
+        },
+        {
+          "image_file": "20_gm.webp",
+          "emojis": ["😊","😊"]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Good Night",
+      "publisher": "Findery",
+      "tray_image_file": "tray_gn_3.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_gn.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "02_gn.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "03_gn.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "04_gn.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "05_gn.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "06_gn.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "07_sleepwell.webp",
+          "emojis": ["😪", "😊"]
+        },
+        {
+          "image_file": "08_star.webp",
+          "emojis": ["😪", "⭐"]
+        },
+        {
+          "image_file": "09_sweet_dreams.webp",
+          "emojis": ["😪", "😘"]
+        },
+        {
+          "image_file": "10_take_care.webp",
+          "emojis": ["😪", "😘"]
+        },
+        {
+          "image_file": "11_gn.webp",
+          "emojis": ["😪", "😘"]
+        }
+      ]
+    },
+    {
+      "identifier": "14",
+      "name": "Gods",
+      "publisher": "Findery",
+      "tray_image_file": "tray_god_14.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_ganesh.webp",
+          "emojis": ["🙏", "🙏"]
+        },
+        {
+          "image_file": "02_ganesha.webp",
+          "emojis": ["🙏", "🙏"]
+        },
+        {
+          "image_file": "03_hanumanji.webp",
+          "emojis": ["🙏", "🙏"]
+        },
+        {
+          "image_file": "04_hanumanji.webp",
+          "emojis": ["🙏", "🙏"]
+        },
+        {
+          "image_file": "05_jsk.webp",
+          "emojis": ["🙏", "🙏"]
+        },
+        {
+          "image_file": "06_om_namah_shivay.webp",
+          "emojis": ["🙏", "🙏"]
+        },
+        {
+          "image_file": "08_vijayadashmi.webp",
+          "emojis": ["🙏", "🙏"]
+        }
+      ]
+    },
+    {
+      "identifier": "10",
+      "name": "Gujarati Talk",
+      "publisher": "Findery",
+      "tray_image_file": "tray_gtext_10.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_su_thayu.webp",
+          "emojis": ["🔠", "🔠"]
+        },
+        {
+          "image_file": "02_kemo_chho.webp",
+          "emojis": ["🔠", "🔠"]
+        },
+        {
+          "image_file": "03_kya_chhe.webp",
+          "emojis": ["🔠", "🔠"]
+        },
+        {
+          "image_file": "04_bahu_thayu.webp",
+          "emojis": ["🔠", "🔠"]
+        },
+        {
+          "image_file": "05_kai_pan.webp",
+          "emojis": ["🔠", "🔠"]
+        },
+        {
+          "image_file": "06_he_bhagvan.webp",
+          "emojis": ["🔠", "🔠"]
+        },
+        {
+          "image_file": "07_aavjo.webp",
+          "emojis": ["🔠", "🔠"]
+        },
+        {
+          "image_file": "08_kevi_rite.webp",
+          "emojis": ["🔠", "🔠"]
+        },
+        {
+          "image_file": "08_majama.webp",
+          "emojis": ["🔠", "🔠"]
+        },
+        {
+          "image_file": "08_su_chale_chhe.webp",
+          "emojis": ["🔠", "🔠"]
+        },
+        {
+          "image_file": "09_su_kre_chhe.webp",
+          "emojis": ["🔠", "🔠"]
+        },
+        {
+          "image_file": "10_hu_tne_maris.webp",
+          "emojis": ["🔠", "🔠"]
+        },
+        {
+          "image_file": "11_mne_heran_na_kr.webp",
+          "emojis": ["🔠", "🔠"]
+        },
+        {
+          "image_file": "12_ha.webp",
+          "emojis": ["🔠", "🔠"]
+        },
+        {
+          "image_file": "13_na.webp",
+          "emojis": ["🔠", "🔠"]
+        },
+        {
+          "image_file": "14_doba.webp",
+          "emojis": ["🔠", "🔠"]
+        },
+        {
+          "image_file": "15_dubi_mar.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "16_chup_bes.webp",
+          "emojis": ["🔠", "🔠"]
+        },
+        {
+          "image_file": "17_dodh_dahyo.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "18_saras.webp",
+          "emojis": ["🔠", "🔠"]
+        },
+        {
+          "image_file": "19_nakamo.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "20_bhai_bhai.webp",
+          "emojis": ["🔠", "🔠"]
+        },
+        {
+          "image_file": "21_aa_bhngar.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "22_bilada.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "23_haltino_tha.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "24_vadra.webp",
+          "emojis": ["😆", "😂"]
+        }
+      ]
+    },
+    {
+      "identifier": "11",
+      "name": "Gujarati Love Text",
+      "publisher": "Findery",
+      "tray_image_file": "tray_glove_11.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_tu_mari_jaan_chhe.webp",
+          "emojis": ["🔠", "💗"]
+        },
+        {
+          "image_file": "02_tu_bahu_sari_lage_chhe.webp",
+          "emojis": ["🔠", "💗"]
+        },
+        {
+          "image_file": "03_aakho_divs_tara_barama_sochu.webp",
+          "emojis": ["🔠", "💗"]
+        },
+        {
+          "image_file": "04_chhodi_de_mne.webp",
+          "emojis": ["🔠", "🔠"]
+        },
+        {
+          "image_file": "05_hu_tara_thi_nafrat_kru_chhu.webp",
+          "emojis": ["🔠", "😏"]
+        },
+        {
+          "image_file": "06_hu_tne_prem_kru_chhu.webp",
+          "emojis": ["🔠", "💗"]
+        },
+        {
+          "image_file": "07_janeman.webp",
+          "emojis": ["🔠", "💗"]
+        },
+        {
+          "image_file": "08_mara_jode_vat_na_kr.webp",
+          "emojis": ["🔠", "😏"]
+        },
+        {
+          "image_file": "09_tara_jevu_koi_nahi.webp",
+          "emojis": ["🔠", "💗"]
+        },
+        {
+          "image_file": "10_tara_mate_kai_pan.webp",
+          "emojis": ["🔠", "💗"]
+        },
+        {
+          "image_file": "11_tari_bahu_yad_aave_chhe.webp",
+          "emojis": ["🔠", "💗"]
+        },
+        {
+          "image_file": "12_tne_mara_sam.webp",
+          "emojis": ["🔠", "🔠"]
+        },
+        {
+          "image_file": "13_tu_mne_bahu_gme_chhe.webp",
+          "emojis": ["🔠", "💗"]
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Daily Text",
+      "publisher": "Findery",
+      "tray_image_file": "tray_text_5.png",
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
@@ -259,67 +1447,1659 @@
       "stickers": [
         {
           "image_file": "01_hey.webp",
-          "emojis": ["☕", "🙂"]
+          "emojis": ["😄", "🔡"]
         },
         {
           "image_file": "02_oye.webp",
-          "emojis": ["😄", "😀"]
+          "emojis": ["😄", "🔡"]
         },
         {
           "image_file": "03_omg.webp",
-          "emojis": ["😆","😂"]
+          "emojis": ["😄", "🔡"]
         },
         {
-          "image_file": "04_i_love_you.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "04_yes.webp",
+          "emojis": ["😊", "🔡"]
         },
         {
-          "image_file": "05_loveyou.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "05_hi.webp",
+          "emojis": ["😊", "🔡"]
         },
         {
-          "image_file": "06_ok.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "06_nope.webp",
+          "emojis": ["😆", "🔡"]
         },
         {
-          "image_file": "07_thank_you.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "07_no.webp",
+          "emojis": ["😆", "🔡"]
         },
         {
           "image_file": "08_bye.webp",
-          "emojis": ["😆","😂"]
+          "emojis": ["😊", "🔡"]
         },
         {
           "image_file": "09_tata.webp",
-          "emojis": ["😆","😂"]
+          "emojis": ["😆", "🔡"]
+        },
+        {
+          "image_file": "10_what.webp",
+          "emojis": ["😳", "🔡"]
+        },
+        {
+          "image_file": "11_awesome.webp",
+          "emojis": ["😍", "🔡"]
+        },
+        {
+          "image_file": "12_cutie.webp",
+          "emojis": ["😍", "🔡"]
+        },
+        {
+          "image_file": "13_aha.webp",
+          "emojis": ["😍", "🔡"]
+        },
+        {
+          "image_file": "14_hello.webp",
+          "emojis": ["😊", "🔡"]
+        },
+        {
+          "image_file": "15_hey_beautiful.webp",
+          "emojis": ["😍", "🔡"]
+        },
+        {
+          "image_file": "16_hmm.webp",
+          "emojis": ["😊", "🔡"]
+        },
+        {
+          "image_file": "17_howareyou.webp",
+          "emojis": ["😊", "🔡"]
+        },
+        {
+          "image_file": "18_cool.webp",
+          "emojis": ["😊", "🔡"]
+        },
+        {
+          "image_file": "19_imfine.webp",
+          "emojis": ["😊", "🔡"]
+        },
+        {
+          "image_file": "20_ItsOk.webp",
+          "emojis": ["😊", "🔡"]
+        },
+        {
+          "image_file": "21_whatsup.webp",
+          "emojis": ["😊", "🔡"]
+        },
+        {
+          "image_file": "22_nicetomeetyou.webp",
+          "emojis": ["😊", "🔡"]
+        },
+        {
+          "image_file": "23_ok.webp",
+          "emojis": ["😊", "🔡"]
+        },
+        {
+          "image_file": "24_seeyousoon.webp",
+          "emojis": ["😍", "🔡"]
+        },
+        {
+          "image_file": "25_so_sad.webp",
+          "emojis": ["😞", "🔡"]
+        },
+        {
+          "image_file": "26_love_it.webp",
+          "emojis": ["😍", "🔡"]
+        },
+        {
+          "image_file": "27_thankyou.webp",
+          "emojis": ["😊", "🔡"]
+        },
+        {
+          "image_file": "28_ttyl.webp",
+          "emojis": ["😊", "🔡"]
+        },
+        {
+          "image_file": "29_welcome.webp",
+          "emojis": ["😊", "🔡"]
+        },
+        {
+          "image_file": "30_well.webp",
+          "emojis": ["😊", "🔡"]
         }
       ]
     },
     {
-      "identifier": "3",
-      "name": "Emoji",
-      "publisher": "Jane Doe",
-      "tray_image_file": "tray_Cuppy.png",
+      "identifier": "6",
+      "name": "kite Flying Day",
+      "publisher": "Findery",
+      "tray_image_file": "tray_kite_6.png",
       "publisher_email": "",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "kemo_chho.webp",
-          "emojis": ["☕", "🙂"]
+          "image_file": "01_happy_kite_flying_day.webp",
+          "emojis": ["🎆", "🎆"]
         },
         {
-          "image_file": "majama.webp",
+          "image_file": "02_happy_uttarayan.webp",
+          "emojis": ["🎆", "🎆"]
+        },
+        {
+          "image_file": "03_hms.webp",
+          "emojis": ["🎆", "🎆"]
+        },
+        {
+          "image_file": "04_hms.webp",
+          "emojis": ["🎆", "🎆"]
+        },
+        {
+          "image_file": "05_kai_po_chhe.webp",
+          "emojis": ["🎆", "🎆"]
+        },
+        {
+          "image_file": "06_kite_flying_day.webp",
+          "emojis": ["🎆", "🎆"]
+        },
+        {
+          "image_file": "06_kite.webp",
+          "emojis": ["🎆", "🎆"]
+        },
+        {
+          "image_file": "07_kite.webp",
+          "emojis": ["🎆", "🎆"]
+        },
+        {
+          "image_file": "08_kite.webp",
+          "emojis": ["🎆", "🎆"]
+        },
+        {
+          "image_file": "09_kite.webp",
+          "emojis": ["🎆", "🎆"]
+        },
+        {
+          "image_file": "10_kite.webp",
+          "emojis": ["🎆", "🎆"]
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Birthday Special",
+      "publisher": "Findery",
+      "tray_image_file": "tray_bday_7.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_birthdayparty.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "02_happy_birthday.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "03_cake.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "04_candy.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "05_happy_birthday.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "06_ballon.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "07_hbd3.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "08_heart_ballon.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "09_partytime.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "10_hbd4.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "11_happy_birthday.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "12_gift.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "13_happy_birthday.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "14_candle.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "15_cake.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "16_hbd.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "17_cake.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "18_cheer.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "19_hbd.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "20_star_ballon.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "21_doughnuts.webp",
+          "emojis": ["🎉", "💐"]
+        }
+      ]
+    },
+    {
+      "identifier": "36_chocolate_and_cake",
+      "name": "Chocolate And Cake",
+      "publisher": "Findery",
+      "tray_image_file": "tray_choco.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_icecreame.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "02_ice_glass.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "03_cake.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "04_cake.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "05_chocolate.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "06_choco.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "07_cake.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "08_choco.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "09_cake.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "10_cake.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "11_choco.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "12_lolipop.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "13_choco.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "13_pinky_cake.webp",
+          "emojis": ["🎉", "💐"]
+        }
+      ]
+    },
+    {
+      "identifier": "37_gift",
+      "name": "Gift Pack",
+      "publisher": "Findery",
+      "tray_image_file": "tray_gift.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_gift.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "02_gift.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "03_gift.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "04_ballon.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "05_gift.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "06_gift.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "08_gift.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "09_letter.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "10_heart_gift.webp",
+          "emojis": ["🎉", "💐"]
+        }
+      ]
+    },
+    {
+      "identifier": "20_Birthday_owls",
+      "name": "Birthday Owls",
+      "publisher": "Findery",
+      "tray_image_file": "tray_bday_owl.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "02_bday_owl.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "03_bday_owl.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "04_bday_owl.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "05_bday_owl.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "06_cake.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "07_bday_owl.webp",
+          "emojis": ["🎉", "💐"]
+        },
+        {
+          "image_file": "09_bday_owl.webp",
+          "emojis": ["🎉", "💐"]
+        }
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "Text",
+      "publisher": "Findery",
+      "tray_image_file": "tray_text_8.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_yo.webp",
+          "emojis": ["👋", "👍"]
+        },
+        {
+          "image_file": "02_oh_yeah.webp",
+          "emojis": ["👋", "👍"]
+        },
+        {
+          "image_file": "03_yep.webp",
+          "emojis": ["👋", "👍"]
+        },
+        {
+          "image_file": "04_stay_cool.webp",
+          "emojis": ["😆", "👍"]
+        },
+        {
+          "image_file": "05_nah.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "06_good.webp",
+          "emojis": ["😆", "👍"]
+        },
+        {
+          "image_file": "07_boom.webp",
+          "emojis": ["👊", "😀"]
+        },
+        {
+          "image_file": "08_happy.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "09_cool.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "10_yeah.webp",
+          "emojis": ["😆", "👍"]
+        },
+        {
+          "image_file": "11_missyou.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "12_how_are_you.webp",
           "emojis": ["😄", "😀"]
         },
         {
-          "image_file": "su_kre_chhe.webp",
+          "image_file": "13_hello.webp",
           "emojis": ["😆", "😂"]
         },
         {
-          "image_file": "su_thyu.webp",
+          "image_file": "14_super_duper.webp",
           "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "15_love.webp",
+          "emojis": ["😍", "😍"]
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "Love Sticky",
+      "publisher": "Findery",
+      "tray_image_file": "tray_love_9.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_all_you_need_is_love.webp",
+          "emojis": ["😍", "😘"]
+        },
+        {
+          "image_file": "02_baby_Iloveyou.webp",
+          "emojis": ["😍", "😘"]
+        },
+        {
+          "image_file": "03_redheart.webp",
+          "emojis": ["😍", "😘"]
+        },
+        {
+          "image_file": "04_i_will_aleays_love_tou.webp",
+          "emojis": ["😍", "😘"]
+        },
+        {
+          "image_file": "06_love.webp",
+          "emojis": ["😍", "😘"]
+        },
+        {
+          "image_file": "07_loveyouTotheMoonAndBack.webp",
+          "emojis": ["😍", "😘"]
+        },
+        {
+          "image_file": "08_my_love.webp",
+          "emojis": ["😍", "😘"]
+        },
+        {
+          "image_file": "09_bemine.webp",
+          "emojis": ["😍", "😘"]
+        },
+        {
+          "image_file": "10_sending_love.webp",
+          "emojis": ["😍", "😘"]
+        },
+        {
+          "image_file": "11_ilvu.webp",
+          "emojis": ["😍", "😘"]
+        },
+        {
+          "image_file": "12_all_you_need_lv.webp",
+          "emojis": ["😍", "😘"]
+        },
+        {
+          "image_file": "13_i_love_you_too.webp",
+          "emojis": ["😍", "😘"]
+        },
+        {
+          "image_file": "14_forever.webp",
+          "emojis": ["😍", "😘"]
+        },
+        {
+          "image_file": "15_iloveyou.webp",
+          "emojis": ["😍", "😘"]
+        },
+        {
+          "image_file": "16_love.webp",
+          "emojis": ["😍", "😘"]
+        },
+        {
+          "image_file": "17_youmakemesmile.webp",
+          "emojis": ["😍", "😘"]
+        },
+        {
+          "image_file": "18_i_hate_you.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "19_lip.webp",
+          "emojis": ["😍", "😘"]
+        },
+        {
+          "image_file": "20_lovefrommetoyou.webp",
+          "emojis": ["😍", "😘"]
+        },
+        {
+          "image_file": "21_loveyou.webp",
+          "emojis": ["😍", "😘"]
+        }
+      ]
+    },
+    {
+      "identifier": "12",
+      "name": "Coffee",
+      "publisher": "Findery",
+      "tray_image_file": "tray_coffee_12.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_coffe_love.webp",
+          "emojis": ["☕", "🙂"]
+        },
+        {
+          "image_file": "02_coffee.webp",
+          "emojis": ["☕", "🙂"]
+        },
+        {
+          "image_file": "03_coffee_creame.webp",
+          "emojis": ["☕", "🙂"]
+        },
+        {
+          "image_file": "04_coffeecup.webp",
+          "emojis": ["☕", "🙂"]
+        },
+        {
+          "image_file": "05_coffetime.webp",
+          "emojis": ["☕", "🙂"]
+        },
+        {
+          "image_file": "06_pinkcup.webp",
+          "emojis": ["☕", "🙂"]
+        },
+        {
+          "image_file": "06_wakeupbaby.webp",
+          "emojis": ["☕", "🙂"]
+        },
+        {
+          "image_file": "07_coffee.webp",
+          "emojis": ["☕", "🙂"]
+        }
+      ]
+    },
+    {
+      "identifier": "13",
+      "name": "Animals In Cup",
+      "publisher": "Findery",
+      "tray_image_file": "tray_cupanimal_13.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_cute.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "02_happy.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "03_love.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "04_cheers.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "05_sweet.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "06_hello.webp",
+          "emojis": ["😍", "😍"]
+        }
+      ]
+    },
+    {
+      "identifier": "39_Friend",
+      "name": "Friend Forever",
+      "publisher": "Findery",
+      "tray_image_file": "tray_frd.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_frd.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "02_frd.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "03_frd.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "04_frd.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "05_frd.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "06_frd.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "07_frd.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "08_frd.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "09_frd.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "10_frd.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "11_frd.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "12_frd.webp",
+          "emojis": ["😍", "😍"]
+        }
+      ]
+    },
+    {
+      "identifier": "24_sparrow",
+      "name": "Sparrow",
+      "publisher": "Findery",
+      "tray_image_file": "tray_sprw.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_sprw.webp",
+          "emojis": ["🐦", "🐦"]
+        },
+        {
+          "image_file": "02_sprw.webp",
+          "emojis": ["🐦", "🐦"]
+        },
+        {
+          "image_file": "03_sprw.webp",
+          "emojis": ["🐦", "🐦"]
+        },
+        {
+          "image_file": "04_sprw.webp",
+          "emojis": ["🐦", "🐦"]
+        },
+        {
+          "image_file": "05_sprw.webp",
+          "emojis": ["🐦", "🐦"]
+        },
+        {
+          "image_file": "06_sprw.webp",
+          "emojis": ["🐦", "🐦"]
+        },
+        {
+          "image_file": "07_sprw.webp",
+          "emojis": ["🐦", "🐦"]
+        },
+        {
+          "image_file": "08_sprw.webp",
+          "emojis": ["🐦", "🐦"]
+        },
+        {
+          "image_file": "09_sprw.webp",
+          "emojis": ["🐦", "🐦"]
+        },
+        {
+          "image_file": "10_sprw.webp",
+          "emojis": ["🐦", "🐦"]
+        },
+        {
+          "image_file": "11_sprw.webp",
+          "emojis": ["🐦", "🐦"]
+        },
+        {
+          "image_file": "12_sprw.webp",
+          "emojis": ["🐦", "🐦"]
+        },
+        {
+          "image_file": "13_sprw.webp",
+          "emojis": ["🐦", "🐦"]
+        },
+        {
+          "image_file": "14_sprw.webp",
+          "emojis": ["🐦", "🐦"]
+        },
+        {
+          "image_file": "15_sprw.webp",
+          "emojis": ["🐦", "🐦"]
+        },
+        {
+          "image_file": "16_sprw.webp",
+          "emojis": ["🐦", "🐦"]
+        }
+      ]
+    },
+    {
+      "identifier": "25_ninja",
+      "name": "Ninja",
+      "publisher": "Findery",
+      "tray_image_file": "tray_ninja.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_ninja.webp",
+          "emojis": ["🐦", "🐦"]
+        },
+        {
+          "image_file": "02_ninja.webp",
+          "emojis": ["🐦", "🐦"]
+        },
+        {
+          "image_file": "03_ninja.webp",
+          "emojis": ["🐦", "🐦"]
+        },
+        {
+          "image_file": "04_ninja.webp",
+          "emojis": ["🐦", "🐦"]
+        },
+        {
+          "image_file": "05_ninja.webp",
+          "emojis": ["🐦", "🐦"]
+        },
+        {
+          "image_file": "06_ninja.webp",
+          "emojis": ["🐦", "🐦"]
+        },
+        {
+          "image_file": "07_ninja.webp",
+          "emojis": ["🐦", "🐦"]
+        },
+        {
+          "image_file": "08_ninja.webp",
+          "emojis": ["🐦", "🐦"]
+        },
+        {
+          "image_file": "09_ninja.webp",
+          "emojis": ["🐦", "🐦"]
+        }
+      ]
+    },
+    {
+      "identifier": "26_ABCD",
+      "name": "A B C D",
+      "publisher": "Findery",
+      "tray_image_file": "tray_ABCD.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_L.webp",
+          "emojis": ["🔤", "🔤"]
+        },
+        {
+          "image_file": "02_C.webp",
+          "emojis": ["🔤", "🔤"]
+        },
+        {
+          "image_file": "03_B.webp",
+          "emojis": ["🔤", "🔤"]
+        },
+        {
+          "image_file": "04_J.webp",
+          "emojis": ["🔤", "🔤"]
+        },
+        {
+          "image_file": "05_O.webp",
+          "emojis": ["🔤", "🔤"]
+        },
+        {
+          "image_file": "06_S.webp",
+          "emojis": ["🔤", "🔤"]
+        },
+        {
+          "image_file": "07_H.webp",
+          "emojis": ["🔤", "🔤"]
+        },
+        {
+          "image_file": "08_U.webp",
+          "emojis": ["🔤", "🔤"]
+        },
+        {
+          "image_file": "09_M.webp",
+          "emojis": ["🔤", "🔤"]
+        },
+        {
+          "image_file": "10_A.webp",
+          "emojis": ["🔤", "🔤"]
+        },
+        {
+          "image_file": "11_T.webp",
+          "emojis": ["🔤", "🔤"]
+        },
+        {
+          "image_file": "12_E.webp",
+          "emojis": ["🔤", "🔤"]
+        },
+        {
+          "image_file": "13_W.webp",
+          "emojis": ["🔤", "🔤"]
+        }
+      ]
+    },
+    {
+      "identifier": "15",
+      "name": "Rabbit-Panda",
+      "publisher": "Findery",
+      "tray_image_file": "tray_rabbit_15.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_panda_cry.webp",
+          "emojis": ["🐰", "🐼"]
+        },
+        {
+          "image_file": "02_panda_love.webp",
+          "emojis": ["🐰", "🐼"]
+        },
+        {
+          "image_file": "03_panda_cry.webp",
+          "emojis": ["🐰", "🐼"]
+        },
+        {
+          "image_file": "04__panda_sad.webp",
+          "emojis": ["🐰", "🐼"]
+        },
+        {
+          "image_file": "05_panda_wink.webp",
+          "emojis": ["🐰", "🐼"]
+        },
+        {
+          "image_file": "06_panda_smiley.webp",
+          "emojis": ["🐰", "🐼"]
+        },
+        {
+          "image_file": "07_panda_smiley.webp",
+          "emojis": ["🐰", "🐼"]
+        },
+        {
+          "image_file": "08__panda.webp",
+          "emojis": ["🐰", "🐼"]
+        },
+        {
+          "image_file": "09_rabbit_love.webp",
+          "emojis": ["🐰", "🐼"]
+        },
+        {
+          "image_file": "10__rabbit_cry.webp",
+          "emojis": ["🐰", "🐼"]
+        },
+        {
+          "image_file": "11_rabbit_cry.webp",
+          "emojis": ["🐰", "🐼"]
+        },
+        {
+          "image_file": "12_rabbit_smiley.webp",
+          "emojis": ["🐰", "🐼"]
+        },
+        {
+          "image_file": "13_rabbit_happy.webp",
+          "emojis": ["🐰", "🐼"]
+        },
+        {
+          "image_file": "14_rabbit_sad.webp",
+          "emojis": ["🐰", "🐼"]
+        },
+        {
+          "image_file": "15_rabbit_smiley.webp",
+          "emojis": ["🐰", "🐼"]
+        },
+        {
+          "image_file": "16_rabbit_happy.webp",
+          "emojis": ["🐰", "🐼"]
+        }
+      ]
+    },
+    {
+      "identifier": "16",
+      "name": "Christmas",
+      "publisher": "Findery",
+      "tray_image_file": "tray_christmas_16.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Christmas_01.webp",
+          "emojis": ["☕", "🙂"]
+        },
+        {
+          "image_file": "Christmas_02.webp",
+          "emojis": ["😄", "😀"]
+        },
+        {
+          "image_file": "Christmas_03.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "Christmas_04.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "Christmas_05.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "Christmas_06.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "Christmas_07.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "Christmas_08.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "Christmas_09.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "Christmas_10.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "Christmas_11.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "Christmas_12.webp",
+          "emojis": ["😆", "😂"]
+        },
+        {
+          "image_file": "Christmas_13.webp",
+          "emojis": ["😆", "😂"]
+        }
+      ]
+    },
+    {
+      "identifier": "23_quote",
+      "name": "Quote",
+      "publisher": "Findery",
+      "tray_image_file": "tray_quote.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": ["😊", "😊"]
+        },
+        {
+          "image_file": "01_q.webp",
+          "emojis": ["😊", "😊"]
+        },
+        {
+          "image_file": "02_q.webp",
+          "emojis": ["😊", "😊"]
+        },
+        {
+          "image_file": "03_q.webp",
+          "emojis": ["😊", "😊"]
+        },
+        {
+          "image_file": "04_q.webp",
+          "emojis": ["😊", "😊"]
+        },
+        {
+          "image_file": "05_q.webp",
+          "emojis": ["😊", "😊"]
+        },
+        {
+          "image_file": "06_q.webp",
+          "emojis": ["😊", "😊"]
+        },
+        {
+          "image_file": "07_q.webp",
+          "emojis": ["😊", "😊"]
+        },
+        {
+          "image_file": "08_q.webp",
+          "emojis": ["😊", "😊"]
+        },
+        {
+          "image_file": "09_q.webp",
+          "emojis": ["😊", "😊"]
+        },
+        {
+          "image_file": "10_q.webp",
+          "emojis": ["😊", "😊"]
+        }
+      ]
+    },
+    {
+      "identifier": "40_RoseDay",
+      "name": "Rose Day",
+      "publisher": "Findery",
+      "tray_image_file": "tray_rose.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_rose.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "02_rose.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "03_rose.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "04_rosebuke.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "05_rosebuke.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "06_buke.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "07_rose.webp",
+          "emojis": ["😍", "😍"]
+        }
+      ]
+    },
+    {
+      "identifier": "41_Tedybear",
+      "name": "Tedybear",
+      "publisher": "Findery",
+      "tray_image_file": "tray_tedy.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_tedybear.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "02_tedygift.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "03_tedy_heart.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "04_tedy.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "05_spread_love.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "06_bear.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "07_bear.webp",
+          "emojis": ["😍", "😍"]
+        }
+      ]
+    },
+    {
+      "identifier": "42_proposeDAy",
+      "name": "Propose Day",
+      "publisher": "Findery",
+      "tray_image_file": "tray_propose.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_ring.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "02_ring.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "03_couple.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "04_animal_propose.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "05_couple.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "06_propose.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "07_propose.webp",
+          "emojis": ["😍", "😍"]
+        }
+      ]
+    },
+    {
+      "identifier": "17",
+      "name": "Couple Love",
+      "publisher": "Findery",
+      "tray_image_file": "tray_lovecouple_17.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "13_couple.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "14_couple.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "15_couple.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "16_couple.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "17_couple.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "18_couple.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "19_couple.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "20_couple.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "21_animal_love.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "22_animal_love.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "23_animak_love.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "24_animal_,love.webp",
+          "emojis": ["😍", "😍"]
+        }
+      ]
+    },
+    {
+      "identifier": "18",
+      "name": "Valentine Love",
+      "publisher": "Fndery",
+      "tray_image_file": "tray_vlove_18.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "01_c.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "02_c.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "03_C.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "04_c.webp",
+          "emojis": ["😍", "😍"]
+        }
+      ]
+    },
+    {
+      "identifier": "43_valentine_Pack",
+      "name": "Valentine Pack",
+      "publisher": "Findery",
+      "tray_image_file": "tray_valentine.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_heart.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "02_cup.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "03_choco.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "04_choco.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "05_choco.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "06_choco.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "07_choco.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "08_choco.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "09_choco.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "10_love.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "11_ilvu.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "12_love_birds.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "13_choco_heart.webp",
+          "emojis": ["😍", "😍"]
+        }
+      ]
+    },
+    {
+      "identifier": "44_valentine_couple_pack",
+      "name": "Valentine Couple",
+      "publisher": "Findery",
+      "tray_image_file": "tray_vc_pack.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_Lcouple.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "02_vc.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "03_inlove.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "04_sweet_couple.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "05_flying_kiss.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "06_vc.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "07_love.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "08_sleep.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "09_bottle.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "10_lv_letter.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "11_choco.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "12_ballon.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "13_buke.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "13_p.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "14_ballon.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "15_xoxo.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "16_vc23.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "18_love.webp",
+          "emojis": ["😍", "😍"]
+        }
+      ]
+    },
+    {
+      "identifier": "45_HappY_valentine_day",
+      "name": "Happy Valentine Day",
+      "publisher": "Findery",
+      "tray_image_file": "tray_hvd.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_hvd.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "02_hvd.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "03_hvd.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "04_hvd.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "05_hvd.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "06_hvd.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "07_hvd.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "08_hvd.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "09_hvd.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "10_hvp.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "11_promise.webp",
+          "emojis": ["😍", "😍"]
+        }
+      ]
+    },
+    {
+      "identifier": "46_love_you",
+      "name": "I Love You",
+      "publisher": "Findery",
+      "tray_image_file": "tray_love_you.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_lu.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "02_be_mine.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "03_lvu.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "04_heart.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "05_miss_you.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "06_heart.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "07_heart.webp",
+          "emojis": ["😍", "😍"]
+        },
+        {
+          "image_file": "08_ilvu_gift.webp",
+          "emojis": ["😍", "😍"]
         }
       ]
     }

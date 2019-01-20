@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@drawable/portrait_screen"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
 <FrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
     android:layout_height="match_parent">
@@ -7,7 +13,7 @@
         android:layout_height="wrap_content"
         android:padding="16dp"
         android:textColor="@android:color/holo_red_dark"
-        android:id="@+id/error_message" />
+        android:id="@+id/error_message"/>
 
     <ProgressBar
         android:id="@+id/entry_activity_progress"
@@ -16,3 +22,4 @@
         android:layout_gravity="center"
         />
 </FrameLayout>
+</android.support.constraint.ConstraintLayout>

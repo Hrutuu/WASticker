@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="actionBarTheme">@style/MyApp.ActionBarTheme</item>
+        <item name="android:colorBackground">@color/actionBarBackground</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:statusBarColor">#72afd3</item>
+        <item name="android:navigationBarColor">#72afd3</item>
+    </style>
+</resources>

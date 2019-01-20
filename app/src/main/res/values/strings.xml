@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">WhatsAppSampleStickerApp</string>
+    <string name="app_name">All Sticker Pack - WASticker</string>
     <string name="tray_image_content_description">Sticker Pack Tray Image</string>
     <string name="more_info_button">More info about sticker pack</string>
     <string name="add_to_whatsapp">Add to WhatsApp</string>
@@ -21,4 +21,14 @@
     <string name="add_pack_fail_prompt_update_whatsapp">Sticker pack not added. If you\'d like to add it, make sure you update to the latest version of WhatsApp.</string>
     <string name="add_pack_fail_prompt_update_play_link">Update</string>
     <string name="cannot_find_play_store">Google Play is not installed on the device.</string>
+
+
+
+    <!-- This is an ad unit ID for a test ad. Replace with your own banner ad unit id. -->
+    <!--<string name="application_ad_id">ca-app-pub-6590398048795882~1698234483</string>-->
+    <string name="application_ad_id">ca-app-pub-3940256099942544~3347511713</string>
+    <!--<string name="banner_ad_unit_id">ca-app-pub-6590398048795882/3935840423</string>-->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <!--<string name="interstitial_ad_unit_id">ca-app-pub-6590398048795882/9283428070</string>-->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
 </resources>
